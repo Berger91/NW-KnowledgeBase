@@ -57,17 +57,17 @@ plugins:
 
 author:
   name   : "Coniunctio"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/nw.jpg"
   bio    : "Karkar Maruders Company"
   links:
     - label: "Discord"
-      icon: "/assets/images/discord.svg"
+      icon: "fab fa-discord"
       url: "https://discord.gg/coniunctio"
 
 footer:
   links:
     - label: "Discord"
-      icon: "/assets/images/discord.svg"
+      icon: "fab fa-discord"
       url: "https://discord.gg/coniunctio"
 
 defaults:

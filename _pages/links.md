@@ -1,6 +1,6 @@
 ---
-permalink: /awesome-nw/
-title: "Awesome New World"
+permalink: /links/
+title: "Links"
 toc: true
 ---
 
